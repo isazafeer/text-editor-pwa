@@ -48,6 +48,11 @@ THEN I should have proper build scripts for a webpack application
 
 ## Images
 
+<img width="1406" alt="Screenshot 2024-06-10 at 18 10 40" src="https://github.com/isazafeer/text-editor-pwa/assets/116819407/3504ae7e-b28b-44ed-920a-707e6fd7e00a">
+
+<img width="1414" alt="Screenshot 2024-06-10 at 18 11 19" src="https://github.com/isazafeer/text-editor-pwa/assets/116819407/48fbeb21-fc52-44af-9a79-369e0e6e103f">
+
+<img width="1410" alt="Screenshot 2024-06-10 at 18 12 04" src="https://github.com/isazafeer/text-editor-pwa/assets/116819407/7c7572e7-60e0-431e-b66f-b62fa0ba59d9">
 
 
 (Link to deployed application on Render)[https://text-editor-pwa-7z6y.onrender.com]
