@@ -55,5 +55,5 @@ THEN I should have proper build scripts for a webpack application
 <img width="1410" alt="Screenshot 2024-06-10 at 18 12 04" src="https://github.com/isazafeer/text-editor-pwa/assets/116819407/7c7572e7-60e0-431e-b66f-b62fa0ba59d9">
 
 
-(Link to deployed application on Render)[https://text-editor-pwa-7z6y.onrender.com]
-(Link to deployed application on Github)[https://github.com/isazafeer/text-editor-pwa]
+[Link to deployed application on Render](https://text-editor-pwa-7z6y.onrender.com)
+[Link to deployed application on Github](https://github.com/isazafeer/text-editor-pwa)
